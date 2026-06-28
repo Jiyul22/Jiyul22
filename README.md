@@ -1,16 +1,13 @@
-## Hi there 👋
+### 자기소개
 
-<!--
-**Jiyul22/Jiyul22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1인 개발자입니다 
+게임 개발을 매우 좋아합니다
 
-Here are some ideas to get you started:
+### 능력
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
