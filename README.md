@@ -1,6 +1,6 @@
 ### 📌 1인 게임 개발자 (2011년생)
 
-## Jiyul22 , Adae 
+## Jiyul22 = Adae 
 
 Roblox와 Unity를 기반으로 시스템을 기획하고 개발하는 게임 개발자
 
